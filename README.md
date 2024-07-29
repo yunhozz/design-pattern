@@ -1,7 +1,5 @@
 # Design Pattern
 
-***
-
 ## 객체 지향 설계 5원칙 - SOLID
 
 **1. 단일 책임 원칙 (Single Responsibility Principle, SRP)**
@@ -20,17 +18,11 @@
 **5. 의존 역전 원칙 (Dependency Inversion Principle, DIP)**
 >자신보다 변하기 쉬운 것에 의존하면 안된다.
 
-***
-
 ## Creational Patterns
-
-***
 
 ## Structural Patterns
 
 ***1. Facade***
-
-***
 
 ## Behavioral Patterns
 
