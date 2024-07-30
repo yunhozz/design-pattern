@@ -26,4 +26,5 @@
 
 ## Behavioral Patterns
 
-***1. Strategy***
+***1. Strategy***\
+***2. Template Method***
