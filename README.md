@@ -29,12 +29,11 @@
 ![](https://sehun-kim.github.io/sehun/assets/images/1541917299687.png)
 
 ## Creational Patterns
+***1. Factory Method***
 
 ## Structural Patterns
-
 ***1. Facade***
 
 ## Behavioral Patterns
-
 ***1. Strategy***\
 ***2. Template Method***
