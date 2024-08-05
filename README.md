@@ -29,7 +29,8 @@
 ![](https://sehun-kim.github.io/sehun/assets/images/1541917299687.png)
 
 ## Creational Patterns
-***1. Factory Method***
+***1. Factory Method***\
+***2. Singleton***
 
 ## Structural Patterns
 ***1. Facade***\
