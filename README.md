@@ -14,7 +14,8 @@
 
 ## Structural Patterns
 ***1. Adapter***\
-***2. Facade***
+***2. Facade***\
+***3. Proxy***
 
 ## Behavioral Patterns
 ***1. Strategy***\
