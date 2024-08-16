@@ -9,8 +9,9 @@
 
 ## Creational Patterns
 ***1. Abstract Factory***\
-***2. Factory Method***\
-***3. Singleton***
+***2. Builder***\
+***3. Factory Method***\
+***4. Singleton***
 
 ## Structural Patterns
 ***1. Adapter***\
