@@ -19,5 +19,6 @@
 ***3. Proxy***
 
 ## Behavioral Patterns
-***1. Strategy***\
-***2. Template Method***
+***1. Observer***\
+***2. Strategy***\
+***3. Template Method***
