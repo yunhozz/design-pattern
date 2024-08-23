@@ -8,17 +8,18 @@
 ***5. Dependency Inversion***
 
 ## Creational Patterns
-***1. Abstract Factory***\
+***1. Abstract Factory ★***\
 ***2. Builder***\
-***3. Factory Method***\
-***4. Singleton***
+***3. Factory Method ★***\
+***4. Singleton ★***
 
 ## Structural Patterns
-***1. Adapter***\
-***2. Facade***\
-***3. Proxy***
+***1. Adapter ★***\
+***2. Facade ★***\
+***3. Proxy ★***
 
 ## Behavioral Patterns
-***1. Observer***\
-***2. Strategy***\
-***3. Template Method***
+***1. Observer ★***\
+***2. State ★***\
+***3. Strategy ★***\
+***4. Template Method ★***
