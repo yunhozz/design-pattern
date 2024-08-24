@@ -15,9 +15,10 @@
 
 ## Structural Patterns
 ***1. Adapter ★***\
-***2. Decorator ★***\
-***3. Facade ★***\
-***4. Proxy ★***
+***2. Composite ★***\
+***3. Decorator ★***\
+***4. Facade ★***\
+***5. Proxy ★***
 
 ## Behavioral Patterns
 ***1. Observer ★***\
