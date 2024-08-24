@@ -21,7 +21,8 @@
 ***5. Proxy ★***
 
 ## Behavioral Patterns
-***1. Observer ★***\
-***2. State ★***\
-***3. Strategy ★***\
-***4. Template Method ★***
+***1. Iterator ★***\
+***2. Observer ★***\
+***3. State ★***\
+***4. Strategy ★***\
+***5. Template Method ★***
