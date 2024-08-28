@@ -22,9 +22,10 @@
 ***6. Proxy ★***
 
 ## Behavioral Patterns
-***1. Interpreter***\
-***2. Iterator ★***\
-***3. Observer ★***\
-***4. State ★***\
-***5. Strategy ★***\
-***6. Template Method ★***
+***1. Chain of Responsibility***\
+***2. Interpreter***\
+***3. Iterator ★***\
+***4. Observer ★***\
+***5. State ★***\
+***6. Strategy ★***\
+***7. Template Method ★***
