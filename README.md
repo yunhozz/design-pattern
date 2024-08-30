@@ -26,7 +26,8 @@
 ***1. Chain of Responsibility***\
 ***2. Interpreter***\
 ***3. Iterator ★***\
-***4. Observer ★***\
-***5. State ★***\
-***6. Strategy ★***\
-***7. Template Method ★***
+***4. Mediator***\
+***5. Observer ★***\
+***6. State ★***\
+***7. Strategy ★***\
+***8. Template Method ★***
