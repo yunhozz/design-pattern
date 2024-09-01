@@ -8,26 +8,27 @@
 ***5. Dependency Inversion***
 
 ## Creational Patterns
-***1. Abstract Factory ★***\
-***2. Builder***\
-***3. Factory Method ★***\
-***4. Prototype***\
-***5. Singleton ★***
+***1. [Abstract Factory](https://github.com/yunhozz/design-pattern/tree/master/src/creation/abstract_factory) ★***\
+***2. [Builder](https://github.com/yunhozz/design-pattern/tree/master/src/creation/builder)***\
+***3. [Factory Method](https://github.com/yunhozz/design-pattern/tree/master/src/creation/factory_method) ★***\
+***4. [Prototype](https://github.com/yunhozz/design-pattern/tree/master/src/creation/prototype)***\
+***5. [Singleton](https://github.com/yunhozz/design-pattern/tree/master/src/creation/singleton) ★***
 
 ## Structural Patterns
-***1. Adapter ★***\
-***2. Composite ★***\
-***3. Decorator ★***\
-***4. Facade ★***\
-***5. Flyweight***\
-***6. Proxy ★***
+***1. [Adapter](https://github.com/yunhozz/design-pattern/tree/master/src/structure/adapter) ★***\
+***2. [Composite](https://github.com/yunhozz/design-pattern/tree/master/src/structure/composite) ★***\
+***3. [Decorator](https://github.com/yunhozz/design-pattern/tree/master/src/structure/decorator) ★***\
+***4. [Facade](https://github.com/yunhozz/design-pattern/tree/master/src/structure/facade) ★***\
+***5. [Flyweight](https://github.com/yunhozz/design-pattern/tree/master/src/structure/flyweight)***\
+***6. [Proxy](https://github.com/yunhozz/design-pattern/tree/master/src/structure/proxy) ★***
 
 ## Behavioral Patterns
-***1. Chain of Responsibility***\
-***2. Interpreter***\
-***3. Iterator ★***\
-***4. Mediator***\
-***5. Observer ★***\
-***6. State ★***\
-***7. Strategy ★***\
-***8. Template Method ★***
+***1. [Chain of Responsibility](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/chain_of_responsibility)***\
+***2. [Command](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/command)***\
+***3. [Interpreter](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/interpreter)***\
+***4. [Iterator](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/iterator) ★***\
+***5. [Mediator](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/mediator)***\
+***6. [Observer](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/observer) ★***\
+***7. [State](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/state) ★***\
+***8. [Strategy](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/strategy) ★***\
+***9. [Template Method](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/template_method) ★***
