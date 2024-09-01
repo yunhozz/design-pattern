@@ -16,11 +16,12 @@
 
 ## Structural Patterns
 ***1. [Adapter](https://github.com/yunhozz/design-pattern/tree/master/src/structure/adapter) ★***\
-***2. [Composite](https://github.com/yunhozz/design-pattern/tree/master/src/structure/composite) ★***\
-***3. [Decorator](https://github.com/yunhozz/design-pattern/tree/master/src/structure/decorator) ★***\
-***4. [Facade](https://github.com/yunhozz/design-pattern/tree/master/src/structure/facade) ★***\
-***5. [Flyweight](https://github.com/yunhozz/design-pattern/tree/master/src/structure/flyweight)***\
-***6. [Proxy](https://github.com/yunhozz/design-pattern/tree/master/src/structure/proxy) ★***
+***2. [Bridge](https://github.com/yunhozz/design-pattern/tree/master/src/structure/bridge)***\
+***3. [Composite](https://github.com/yunhozz/design-pattern/tree/master/src/structure/composite) ★***\
+***4. [Decorator](https://github.com/yunhozz/design-pattern/tree/master/src/structure/decorator) ★***\
+***5. [Facade](https://github.com/yunhozz/design-pattern/tree/master/src/structure/facade) ★***\
+***6. [Flyweight](https://github.com/yunhozz/design-pattern/tree/master/src/structure/flyweight)***\
+***7. [Proxy](https://github.com/yunhozz/design-pattern/tree/master/src/structure/proxy) ★***
 
 ## Behavioral Patterns
 ***1. [Chain of Responsibility](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/chain_of_responsibility)***\
