@@ -29,7 +29,8 @@
 ***3. [Interpreter](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/interpreter)***\
 ***4. [Iterator](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/iterator) ★***\
 ***5. [Mediator](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/mediator)***\
-***6. [Observer](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/observer) ★***\
-***7. [State](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/state) ★***\
-***8. [Strategy](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/strategy) ★***\
-***9. [Template Method](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/template_method) ★***
+***6. [Memento](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/memento)***\
+***7. [Observer](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/observer) ★***\
+***8. [State](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/state) ★***\
+***9. [Strategy](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/strategy) ★***\
+***10. [Template Method](https://github.com/yunhozz/design-pattern/tree/master/src/behavior/template_method) ★***
